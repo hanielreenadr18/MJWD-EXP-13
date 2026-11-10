@@ -36,13 +36,6 @@ React_Promises_Experiment_13/
     └── main.jsx
 ```
 
-## Installation and execution
-```bash
-npm install
-npm run dev
-```
-Open the localhost URL printed by Vite.
-
 ## Algorithm
 1. Initialize React state variables for student data, loading, error, request count, and status.
 2. Create a function that returns a Promise.
@@ -53,6 +46,15 @@ Open the localhost URL printed by Vite.
 7. Use `.catch()` to handle rejected operations.
 8. Use `.finally()` to stop the loading state after completion.
 9. Render the corresponding output based on the Promise state.
+
+## Output
+<img width="1825" height="814" alt="image" src="https://github.com/user-attachments/assets/1b44308b-928b-4028-9d6b-93e82f16f66a" />
+
+<img width="1799" height="804" alt="image" src="https://github.com/user-attachments/assets/dee343cc-6d97-4422-aceb-7f6985f04ead" />
+
+<img width="622" height="459" alt="image" src="https://github.com/user-attachments/assets/df2c0268-60e8-4252-b21e-93bb4a332061" />
+
+
 
 ## Result
 The React application demonstrates asynchronous Promise execution and handles both successful and rejected operations.

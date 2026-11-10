@@ -18,10 +18,10 @@ To simulate an asynchronous operation in React using JavaScript Promises and han
 - Professional responsive Academia dashboard.
 
 ## Student data
-- Name: Arun Kumar
+- Name: Haniel Reena D R
 - Department: Computer Science and Engineering
-- Year: III Year
-- Register Number: STU-2026-001
+- Year: IV Year
+- Register Number: 2305001008
 
 ## Project structure
 ```text
